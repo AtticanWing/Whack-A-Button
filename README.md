@@ -3,7 +3,7 @@ GAME WITH ILLUMINATED BUTTON INPUTS AND
 INTEGRATED AUDIO
 ## Project Demo:
 
-[Demo]([Link URL](https://youtu.be/eBtXhnmcVG4?si=pxX8mNb80aY3StLu))
+[Demo]((https://youtu.be/eBtXhnmcVG4?si=pxX8mNb80aY3StLu))
 
 ## 1 PROJECT OVERVIEW
 This project involves using an FPGA to create a whack-a-mole game by integrating audio and but-

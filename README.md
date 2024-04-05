@@ -8,7 +8,7 @@ will play to indicate the appearance of moles, challenging the user to press the
 selected time limit. The FPGA will keep track of scores, which will be displayed on a hex display,
 and the game will conclude with an ”end” audio cue.
 # 2 HIGH-LEVEL HARDWARE BLOCK DIAGRAM:
-
+![Hardware Block Diagram](gamelogic.jpg)
 # 3 PROJECT MILESTONES
 Nov 6 Buy components, Do research on audio files Nov 10
 Nov 13 Finish the FSM, Finish Datapath implementation Nov 17
